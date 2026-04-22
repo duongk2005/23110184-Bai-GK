@@ -1,0 +1,7 @@
+Danh sach mon hang:
+banh my - 10000.0 VND
+com rang - 25000.0 VND
+tra sưa - 20000.0 VND
+
+Tong tien: 55000.0 VND
+Mon dat nhat: com rang - 25000.0 VND
